@@ -1,1 +1,1 @@
-#test7
+This is only a placeholder readme.  A proper one may come later.
